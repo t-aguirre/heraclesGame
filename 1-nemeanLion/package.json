@@ -1,0 +1,12 @@
+{
+  "name": "1-nemeanlion",
+  "version": "1.0.0",
+  "description": "Prerequisite: clone this _repository_.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
